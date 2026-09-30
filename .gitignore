@@ -1,0 +1,44 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Compilación
+[Bb]in/
+[Oo]bj/
+
+# Archivos temporales
+*.tmp
+*.temp
+*.log
+
+# NuGet
+packages/
+*.nupkg
+*.snupkg
+
+# ASP.NET / Entity Framework
+appsettings.Development.json
+
+# Rider / JetBrains
+.idea/
+*.sln.iml
+
+# VS Code
+.vscode/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos de publicación
+publish/
+wwwroot/lib/
+
+# Certificados de desarrollo
+*.pfx
+
+# User secrets
+secrets.json

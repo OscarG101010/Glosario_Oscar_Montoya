@@ -1,0 +1,26 @@
+﻿body {
+}
+
+.layout {
+    display: flex;
+    flex-direction: column;
+
+    padding-top: 30px;
+
+    align-content: center;
+    align-items: center;
+    justify-content: center;
+}
+
+.layout .tarjetas a{
+    padding: 15px;
+    margin: 15px;
+
+    border: solid black 1px;
+    border-radius: 10px;
+    box-shadow: -10px, 5px, 2px, 2px;
+}
+
+.layout .tarjetas{
+    margin: 30px;
+}
